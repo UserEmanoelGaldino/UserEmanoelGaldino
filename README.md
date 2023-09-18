@@ -1,7 +1,16 @@
 <h1>Emanoel G. Cardoso Fuentes</h1>
 <ul>
-  <li>Cargo Atual: Analista de Implantação</li>
-  <li>Estudando: Python e Odoo (Sistema ERP)</li>
-  <li>E-mail: worknoel.cardoso@gmail.com</li>
+  <li><strong>Cargo Atual:</strong> Analista de Implantação</li>
+  <li>
+     <strong>Estudando:</strong>
+    <ul>
+      <li>Python</li>
+      <li>Odoo (Sistema ERP)</li>
+      <li>JavaScript</li>
+      <li>Html e Css</li>
+      <li>BDA</li>
+    </ul>
+  </li>
+  <li><strong>E-mail:</strong> worknoel.cardoso@gmail.com</li>
 </ul>
 
