@@ -1,6 +1,7 @@
 <h1>Emanoel G. Cardoso Fuentes</h1>
-- 🔭 Trabalho como Analista de Implantação
-- 🌱 Estou estudando Python e ERP Odoo 
-- 📫 Contate-me por: worknoel.cardoso@gmail.com
-- 😄 Pronouns: Ele/Dele
+<ul>
+  <li>Cargo Atual: Analista de Implantação</li>
+  <li>Estudando: Python e Odoo (Sistema ERP)</li>
+  <li>E-mail: worknoel.cardoso@gmail.com</li>
+</ul>
 
